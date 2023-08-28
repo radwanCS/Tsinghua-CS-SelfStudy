@@ -52,7 +52,8 @@ Curriculum Setting and Credit Distribution
 
 As stated earlier only subjects related to computer science \& IT well be included
 
-#. **Foundational courses 39 credits compulsory**
+Foundational courses 39 credits compulsory
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The fundamental courses are the compulsory courses and credit requirements set by the Computer Science Department for students in this major, 
 covering mathematics and natural science foundations, subject foundations, practical components, and other aspects. These courses and components 
@@ -151,3 +152,330 @@ and abilities necessary for in-depth learning and research in the field of compu
      - Introduction to Computer Science
      - 1
      -
+   * - 3
+     - Fundamentals of Electronics
+     - 1
+     - 
+
+Major Core Courses - 44 Credits, Compulsory
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Those are the courses that are related to computer science
+
+.. list-table:: Major Core Courses
+   :widths: 10 50 20 20
+   :header-rows: 1
+
+   * - No.
+     - Course Name
+     - Credit
+     - Remark
+   * - 1
+     - Programming Basics
+     - 3
+     - 
+   * - 2
+     - Object Oriented Programming
+     - 2
+     - 
+   * - 3
+     - Digital Logic Circuit
+     - 3
+     - 3 or 4
+   * - 4
+     - Digital Logic Design
+     - 3
+     - 3 or 4
+   * - 5
+     - Digital Logic Experiment
+     - 1
+     -
+   * - 6
+     - Data Structures
+     - 4
+     - 
+   * - 7
+     - Introduction to Computer Systems
+     - 3
+     -
+   * - 8
+     - Signal Processing Principles
+     - 3
+     - 8 or 9
+   * - 9
+     - Signals and Systems
+     - 4
+     - 8 or 9
+   * - 10
+     - Principles of Computer Networks
+     - 3
+     -
+   * - 11
+     - Computer Organization and Architecture
+     - 4
+     - 
+   * - 12
+     - Software Engineering
+     - 3
+     - 
+   * - 13
+     - Operating Systems
+     - 3
+     - 
+   * - 14
+     - Computer System Architecture
+     - 3
+     -
+   * - 14
+     - Formal Languages and Automata
+     - 2
+     -
+   * - 15
+     - Compiler Design
+     - 2
+     - 
+   * - 16
+     - Introduction to Artificial Intelligence
+     - 2
+     - 
+   * - 17
+     - Introduction to Cybersecurity
+     - 3
+     -
+
+Major Elective Courses 12 Credits
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Major elective courses: no less than 10 credits.
+
+The elective courses offered in this major include four specialized directions: Computer System Architecture, Computer Software and Theory,
+Computer Application Technology, and Specialized Training. It is recommended to choose a minimum of 2 credits for each specialized direction,
+totaling not less than 10 credits.
+
+1. Computer System Architecture Course Group: Elective, not less than 2 credits.
+
+.. list-table:: Computer System Architecture
+   :widths: 10 50 20 20
+   :header-rows: 1
+
+   * - No.
+     - Course Name
+     - Credit
+     - Remark
+   * - 1
+     - Microcomputer Technology
+     - 3
+     - 
+   * - 2
+     - Automated Digital System Design
+     - 2
+     - 
+   * - 3
+     - Introduction to VLSI Design
+     - 2
+     - 
+   * - 4
+     - Introduction to Communication Principles
+     - 3
+     - 
+   * - 5
+     - Computer Network Security Technology
+     - 2
+     - 
+   * - 6
+     - Fundamentals of Storage Technology
+     - 2
+     - 
+   * - 7
+     - Grid Computing
+     - 1
+     - 
+   * - 8
+     - Frontiers of High-Performance Computing Technologies
+     - 1
+     -
+   * - 9
+     - Network Security Engineering and Practice
+     - 2
+     -
+   * - 10
+     - Computer Network Management
+     - 2
+     - 
+   * - 11
+     - Wireless Mobile Network Technology
+     - 2
+     -
+   * - 12
+     - Internet Engineering Design
+     - 2
+     -
+   * - 13
+     - Network Programming Techniques
+     - 2
+     - 
+   * - 14
+     - Modern Cryptography
+     - 2
+     - 
+   * - 15
+     - Principles of Network Security and Privacy
+     - 2
+     - 
+
+2. Computer Software and Theory Course Group: Elective, not less than 2 credits.
+
+.. list-table:: Computer Software Theory
+   :widths: 10 50 20 20
+   :header-rows: 1
+
+   * - No.
+     - Course Name
+     - Credit
+     - Remark
+   * - 1
+     - Microcomputer Technology
+     - 3
+     - 
+   * - 2
+     - Introduction to High-Performance Computing
+     - 2
+     - 
+   * - 3
+     - Introduction to Database Systems
+     - 2
+     -
+   * - 4
+     - Software Development Methods
+     - 2
+     -
+   * - 5
+     - Cutting-edge Technologies in Computer Software
+     - 1
+     -
+   * - 6
+     - Introduction to Computational Theory
+     - 2
+     - 
+
+3. Computer Application Technology Course Group: Elective courses of no less than 2 credits.
+
+.. list-table:: Computer Application Technology
+   :widths: 10 50 20 20
+   :header-rows: 1
+
+   * - No.
+     - Course Name
+     - Credit
+     - Remark
+   * - 1
+     - Pattern Recognition
+     - 2
+     - 
+   * - 2
+     - Fundamentals and Applications of Multimedia Technology
+     - 2
+     -
+   * - 3
+     - Digital Image Processing
+     - 2
+     - 
+   * - 4
+     - Fundamentals of Computer Graphics
+     - 2
+     - 
+   * - 5
+     - System Simulation and Virtual Reality
+     - 2
+     - 
+   * - 6
+     - Modern Control Technology
+     - 2
+     - 
+   * - 7
+     - Information Retrieval
+     - 2
+     - 
+   * - 8
+     - Data Mining
+     - 2
+     - 
+   * - 9
+     - Introduction to Machine Learning
+     - 2
+     - 
+   * - 10
+     - Theory and Technology of Human-Computer Interaction
+     - 2
+     -
+   * - 11
+     - Artificial Neural Networks
+     - 2
+     - 
+   * - 12
+     - Media Computing
+     - 2
+     - 
+   * - 13
+     - Fundamentals of Search Engine Technology
+     - 2
+     - 
+   * - 14
+     - System Analysis and Control
+     - 3
+     -
+   * - 15
+     - Embedded Systems
+     - 2
+     - 
+   * - 16
+     - Artificial Intelligence Technologies and Practice
+     - 2
+     -
+   * - 17
+     - Virtual Reality Technology
+     - 2
+     -
+   
+4. Specialized Training: Elective courses of no less than 2 credits
+
+.. list-table:: Specialized Training
+   :widths: 10 50 20 20
+   :header-rows: 1
+
+   * - No.
+     - Course Name
+     - Credit
+     - Remark
+   * - 1
+     - Specialized Training in Computer Networking
+     - 2
+     - 
+   * - 2
+     - Specialized Training in Operating Systems
+     - 2
+     - 
+   * - 3
+     - Specialized Training in Compiler Principles
+     - 2
+     -
+   * - 4
+     - Specialized Training in Databases
+     - 2
+     - 
+   * - 5
+     - Service-Centric Software Development Design and Implementation
+     - 2
+     - 
+   * - 6
+     - Cognitive Robotics
+     - 1
+     - 
+
+
+
+
+
+
+
+

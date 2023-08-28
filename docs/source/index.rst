@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Tsinghua Computer Science \& Technology Self Study Guide!
-===============================================================================================
+====================================================================
 
 A self-study guide for **Computer Science \& Technology** based on `Tsinghua University <https://www.cs.tsinghua.edu.cn/csen/index.htm>`_ curriculum \
 and the `REKCARC-TSC-UHT <https://github.com/PKUanonym/REKCARC-TSC-UHT/tree/master>`_ project on GitHub.
