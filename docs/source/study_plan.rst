@@ -38,7 +38,6 @@ Autumn Semester
    * - 7
      - Fundamentals of Programming
      - 3
-
-
+     
 Spring Semester
 ~~~~~~~~~~~~~~~

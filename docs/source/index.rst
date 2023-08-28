@@ -20,6 +20,14 @@ and the `REKCARC-TSC-UHT <https://github.com/PKUanonym/REKCARC-TSC-UHT/tree/mast
    introduction
    study_plan
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Curriculum
+   :numbered:
+
+   content/freshmen_1/freshmen_1
+
+
 Indices and tables
 ==================
 
