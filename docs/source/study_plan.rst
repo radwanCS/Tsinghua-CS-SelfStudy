@@ -27,7 +27,7 @@ Autumn Semester
      - Linear Algebra
      - 4
    * - 4
-     - Discreet Mathmatics
+     - Discreet Mathmatics (1)
      - 3
    * - 5
      - Introduction to information Science and Technology

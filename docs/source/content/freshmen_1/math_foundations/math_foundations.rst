@@ -17,9 +17,13 @@ Study Material
 1. "Algebra and Trigonometry 4th Edition by James Stewart, Lothar Redlin, Saleem Watson"
 2. "PreCalculus Mathmatics For Calculus 7th Edition by James Stewart, Lothar, Saleem Watson"
 
+You have the option to read either of the books; there's no necessity to go through both since they largely address the same subjects.
+They also serve as valuable reference materials. Given that they encompass fundamental concepts, when it comes to the exercises in the books,
+I suggest concentrating on the ones that present a significant challenge. Attempting to complete all exercises might demand an excessive amount of time.
+
 Summary
 --------
 
 These books will serve as sufficient resources to refresh your mathematical skills and acquire the necessary knowledge before delving into Calculus 
 and advanced mathematics. Both of these recommended books are taught at the college level during the freshman year, 
-aimed at preparing students for more advanced studies in mathematics.
+aimed at preparing students who needs to refersh their math skills for more advanced studies in mathematics.
