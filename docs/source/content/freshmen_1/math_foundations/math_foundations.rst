@@ -19,7 +19,8 @@ Study Material
 
 You have the option to read either of the books; there's no necessity to go through both since they largely address the same subjects.
 They also serve as valuable reference materials. Given that they encompass fundamental concepts, when it comes to the exercises in the books,
-I suggest concentrating on the ones that present a significant challenge. Attempting to complete all exercises might demand an excessive amount of time.
+I suggest concentrating on the ones that present a significant challenge. Attempting to complete all exercises is not recommended 
+since it might demand an excessive amount of time.
 
 Summary
 --------
