@@ -1,4 +1,4 @@
-Math Foundations
+PreCalculus
 ================
 
 Prerequisites
@@ -8,6 +8,8 @@ A solid foundation in basic arithmetic and algebraic concepts is recommended. Fa
 Proficiency in elementary algebra and a basic understanding of geometry are essential. 
 Having a grasp of fundamental algebraic operations and concepts, along with introductory knowledge of trigonometry, 
 will prepare you for success in this course.
+
+As long as you finished highschool math this course is a good starting point to refresh your memory.
 
 Study Material
 --------------

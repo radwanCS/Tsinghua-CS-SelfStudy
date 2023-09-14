@@ -6,6 +6,6 @@ provided you have fulfilled the necessary prerequisites for that specific course
 
 .. toctree::
     
-    math_foundations/math_foundations
+    precalculus/precalculus
     intro_IS_and_IT/intro_IS_and_IT
 

@@ -18,7 +18,7 @@ Autumn Semester
      - Course Name
      - Credit
    * - 1
-     - Math Foundations
+     - PreCalculus
      - 0
    * - 2
      - Calculus A(1)
