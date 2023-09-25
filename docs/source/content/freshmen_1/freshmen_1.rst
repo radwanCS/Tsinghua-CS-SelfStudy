@@ -8,4 +8,5 @@ provided you have fulfilled the necessary prerequisites for that specific course
     
     precalculus/precalculus
     intro_IS_and_IT/intro_IS_and_IT
+    intro_CS/intro_cs
 

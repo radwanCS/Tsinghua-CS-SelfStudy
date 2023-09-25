@@ -17,7 +17,7 @@ You can quickly skim through the book without delving into every detail, using i
 
 2. "Computing Essentials 2023: Making IT work for you 2023 by Timothy J.O'Leary, Daniel A. O'Leary, Linda I. O'Leary"
 
-You can learn all basic and get a general knowledge about the field of IT
+Can help you acquire a quick general knowledge about the field of IT
 
 Tips and Guidelines
 -------------------
