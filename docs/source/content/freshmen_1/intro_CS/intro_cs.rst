@@ -1,5 +1,5 @@
 Introduction to Computer Science
-================================
+===============================
 
 Prerequisites
 -------------
@@ -8,13 +8,16 @@ No prerequisites are required.
 Study Material
 --------------
 
-* Books
+**Books:**
 
-1. "Computer Science: An Overview 13th edition by J.Glenn Brookshear, Dennis Brylow".
+1. "Computer Science: An Overview, 13th edition" by J. Glenn Brookshear and Dennis Brylow.
 
-The book comprises a total of 13 chapters. Ideally, you should aim to complete it within 15 days, 
-but it shouldn't take too long because most of the content is quite basic and general.
+This book consists of 13 chapters. Ideally, you should aim to complete it within 15-30 days as it covers many
+topics in computer science to prepare you for what's to come. This book is also used by Tsinghua University in
+the Introduction to Computer Science course.
 
 Summary
 -------
 
+The book alone should be sufficient, but you can also refer to `THU-CST-Cracker <https://rekcarc-tsc-uht.readthedocs.io/>`_ 
+for additional materials such as past exam papers, syllabus, and more.
