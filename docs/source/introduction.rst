@@ -19,23 +19,22 @@ a well-rounded person and encourage your creative thinking.
 Our aim is to guide you become someone who can learn a lot on their own and adapt to different things. We want you to dream big and set goals for yourself, especially in the field of science.
 By the end of this guide, you'll be ready to lead in computer science or make a big impact in the business world. You'll have the skills and knowledge to make a real difference.
 
-Requirments
------------
+Requirements
+------------
 
-According to Tsinghua university Computer Science and Technology Graduates
-should possess the following knowledge and abilities:
+According to Tsinghua University, Computer Science and Technology Graduates should possess the following knowledge and abilities:
 
-a. Ability to apply mathematical, scientific, and engineering knowledge
-b. Ability to design and conduct experiments, analyze and interpret data
-c. Ability to design systems, devices, or processes that meet desired requirements while considering real constraints such as economic, environmental, social, political, ethical, health, safety, ease of processing, and sustainability
-d. Ability to work in multidisciplinary teams
-e. Ability to identify, propose, and solve engineering problems
-f. Understanding of professional ethics and responsibilities in the field of study
-g. Ability for effective communication
-h. Possess a broad knowledge base, capable of recognizing the global, economic, environmental, and societal impact of engineering solutions
-i. Recognize the importance of lifelong learning and have the ability to improve oneself through continuous learning
-j. Possess knowledge to understand contemporary social and technological issues from a professional perspective
-k. Ability to apply technology, skills, and modern engineering tools for engineering practice
+1. Ability to apply mathematical, scientific, and engineering knowledge
+2. Ability to design and conduct experiments, analyze and interpret data
+3. Ability to design systems, devices, or processes that meet desired requirements while considering real constraints such as economic, environmental, social, political, ethical, health, safety, ease of processing, and sustainability
+4. Ability to work in multidisciplinary teams
+5. Ability to identify, propose, and solve engineering problems
+6. Understanding of professional ethics and responsibilities in the field of study
+7. Ability for effective communication
+8. Possess a broad knowledge base, capable of recognizing the global, economic, environmental, and societal impact of engineering solutions
+9. Recognize the importance of lifelong learning and have the ability to improve oneself through continuous learning
+10. Possess knowledge to understand contemporary social and technological issues from a professional perspective
+11. Ability to apply technology, skills, and modern engineering tools for engineering practice
 
 Study Duration
 --------------
@@ -59,7 +58,7 @@ and an additional 19 credits allocated for practical components within the major
 
    Only subjects directly related to computer science will be included in this guide. 
    To meet the required credits, consider taking more specialized computer science courses from the 3rd and 4th years.
-   
+
 Curriculum Setting and Credit Distribution
 ------------------------------------------
 
