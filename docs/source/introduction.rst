@@ -19,7 +19,7 @@ a well-rounded person and encourage your creative thinking.
 Our aim is to guide you become someone who can learn a lot on their own and adapt to different things. We want you to dream big and set goals for yourself, especially in the field of science.
 By the end of this guide, you'll be ready to lead in computer science or make a big impact in the business world. You'll have the skills and knowledge to make a real difference.
 
-Requirment
+Requirments
 -----------
 
 According to Tsinghua university Computer Science and Technology Graduates
