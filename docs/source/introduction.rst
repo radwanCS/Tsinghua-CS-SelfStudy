@@ -7,19 +7,23 @@ Welcome to this Self Study Guide which is based on Tsinghua University curriculu
 
 **Enrichment from REKCARC-TSC-UHT:** This project supplements our guide with additional course material, including homework, books, and exams.
 
-**A Self-Study Roadmap:** This documentation serves as your roadmap to mastering computer science. It offers suggestions for books, online courses, and materials to help you gain the required knowledge in each subject.
+**A Self-Study Roadmap:** This documentation serves as your roadmap to mastering computer science. It offers suggestions for books, online resources, and courses to help you gain the required knowledge in each subject.
 
 Study Objective
 ---------------
 
-The computer science program aims to provide comprehensive professional education that integrates multiple disciplines and is based on a foundation of general education. The program aims to construct a curriculum system that encompasses a wide range of basic courses with common professional characteristics, as well as a core curriculum system with specific expertise. The emphasis is on providing students with fundamental theories, foundational knowledge, essential skills, and fostering a well-rounded personality, holistic qualities, and an innovative spirit.
+We've made this guide to lead you to a complete education in computer science. It covers lots of different subjects, starting with the basics and then going into more specialized stuff.
+As you go through this guide, you'll learn important theories, knowledge, and skills you need for computer science. But it's not just about what you learn, we also want to help you become 
+a well-rounded person and encourage your creative thinking.
 
-The goal is to cultivate versatile individuals with a solid foundation, broad expertise, and the ability for independent learning. Graduates should possess lofty scientific aspirations and life ideals. The program aims to nurture a group of high-caliber graduates with the potential to become "academic masters" who lead trends in the field of computer science, or "industry leaders" who make significant impact in the business world.
+Our aim is to guide you become someone who can learn a lot on their own and adapt to different things. We want you to dream big and set goals for yourself, especially in the field of science.
+By the end of this guide, you'll be ready to lead in computer science or make a big impact in the business world. You'll have the skills and knowledge to make a real difference.
 
 Requirments
 -----------
 
-Computer Science and Technology Graduates should possess the following knowledge and abilities:
+According to Tsinghua university Computer Science and Technology Graduates
+should possess the following knowledge and abilities:
 
 a. Ability to apply mathematical, scientific, and engineering knowledge
 b. Ability to design and conduct experiments, analyze and interpret data
@@ -33,19 +37,26 @@ i. Recognize the importance of lifelong learning and have the ability to improve
 j. Possess knowledge to understand contemporary social and technological issues from a professional perspective
 k. Ability to apply technology, skills, and modern engineering tools for engineering practice
 
-Duration and Degree Conferment
-------------------------------
+Study Duration
+--------------
 
-The undergraduate program for Computer Science and Technology has a duration of four years. Upon completion, graduates are conferred with a Bachelor of Engineering degree.
-The curriculum and credit distribution are designed in accordance with the undergraduate program's duration. The maximum period for undergraduate study is the program duration plus an additional two years.
+At Tsinghua University, the undergraduate program for Computer Science and Technology spans four years, culminating in the conferment of a Bachelor of Engineering degree.
+The curriculum and credit distribution align with the undergraduate program's duration. The maximum allowable period for undergraduate study is the program duration (4 years) with an additional two years.
+
+Considering the approach in this guide, the program duration is estimated to range between 3-4 years. By excluding extracurricular courses typically included in most university programs and focusing solely on essential subjects, we prioritize efficiency. However, there's no strict timeline for program completion. 
+Individuals may finish all courses in 3, 4, or even 5 years, allowing flexibility and self-pacing.
+
+For those you want to follow a strict timeline The recommended duration falls within the range of 3-4 years.
 
 Basic Credit Requirements
 -------------------------
 
-The total credit requirement for undergraduate education is 160 credits. This includes 46 credits for university-level
-general education courses, 95 credits for major-related courses, and 19 credits for practical components of the major.
+At Tsinghua University, the undergraduate education mandates a total credit requirement of 160 credits.
+This encompasses 46 credits designated for university-level general education courses, 95 credits dedicated to major-related courses,
+and an additional 19 credits allocated for practical components within the major.
 
-**Note:** Subjects that are not related to computer science well not be included
+**Note:** Only subjects directly related to computer science will be included in this guide. 
+To meet the required credits, consider taking more specialized computer science courses from the 3rd and 4th years.
 
 Curriculum Setting and Credit Distribution
 ------------------------------------------
@@ -53,7 +64,7 @@ Curriculum Setting and Credit Distribution
 As stated earlier only subjects related to computer science \& IT well be included
 
 Foundational courses 39 credits compulsory
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The fundamental courses are the compulsory courses and credit requirements set by the Computer Science Department for students in this major, 
 covering mathematics and natural science foundations, subject foundations, practical components, and other aspects. These courses and components 

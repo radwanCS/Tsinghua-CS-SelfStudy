@@ -4,23 +4,23 @@ Introduction to Information Science & Technology
 Prerequisites
 -------------
 
-No foundations are needed for this course.
+No foundational knowledge is required for this course.
 
 Study Material
 --------------
 
-* **Books**
+Books
+"""""
 
-1. "Introduction to Information Science 2nd Edition by David Bawden, Lyn Robinson"
+1. "Introduction to Information Science 2nd Edition" by David Bawden, Lyn Robinson
 
-You can quickly skim through the book without delving into every detail, using it primarily as a reference guide. Try to understand the main points only.
+   You can quickly skim through the book without delving into every detail, primarily using it as a reference guide. Focus on understanding the main points only.
 
-2. "Computing Essentials 2023: Making IT work for you 2023 by Timothy J.O'Leary, Daniel A. O'Leary, Linda I. O'Leary"
+2. "Computing Essentials 2023: Making IT Work for You 2023" by Timothy J. O'Leary, Daniel A. O'Leary, Linda I. O'Leary
 
-This book can help you acquire a quick general knowledge about the field of IT.
+   This book can provide you with quick general knowledge about the field of IT.
 
 Tips and Guidelines
 -------------------
 
-Overall this is only an introductory course that should help you know the difference between information science, information systems, 
-and information technology. You should know what each mean, and have an overall understanding about each one.
+This is an introductory course aimed at helping you differentiate between information science, information systems, and information technology. Aim to understand the meaning of each and develop an overall understanding of these domains.
