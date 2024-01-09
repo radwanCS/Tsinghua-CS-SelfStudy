@@ -55,8 +55,10 @@ At Tsinghua University, the undergraduate education mandates a total credit requ
 This encompasses 46 credits designated for university-level general education courses, 95 credits dedicated to major-related courses,
 and an additional 19 credits allocated for practical components within the major.
 
-**Note:** Only subjects directly related to computer science will be included in this guide. 
-To meet the required credits, consider taking more specialized computer science courses from the 3rd and 4th years.
+.. note::
+  
+  Only subjects directly related to computer science will be included in this guide. 
+  To meet the required credits, consider taking more specialized computer science courses from the 3rd and 4th years.
 
 Curriculum Setting and Credit Distribution
 ------------------------------------------
