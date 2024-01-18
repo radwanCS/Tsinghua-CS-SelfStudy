@@ -6,6 +6,13 @@ Prerequisites
 
 High school Maths
 
+Study Duration
+--------------
+
+- **Start Time:** [2023/9/1]
+- **End Time:** 
+- **Total Duration:** 
+
 Study Material
 --------------
 

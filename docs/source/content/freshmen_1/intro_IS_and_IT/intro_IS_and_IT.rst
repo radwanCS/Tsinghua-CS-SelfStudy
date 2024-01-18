@@ -6,6 +6,13 @@ Prerequisites
    
 No foundational knowledge is required for this course.
 
+Study Duration
+--------------
+
+- **Start Time:** [2023/9/1]
+- **End Time:** [2023/9/30]
+- **Total Duration:** 1 month
+
 Study Material
 --------------
 
@@ -23,4 +30,5 @@ Books
 Tips and Guidelines
 -------------------
 
-This is an introductory course aimed at helping you differentiate between information science, information systems, and information technology. Aim to understand the meaning of each and develop an overall understanding of these domains.
+This is an introductory course aimed at helping you differentiate between information science, information systems, and information technology.
+Aim to understand the meaning of each and develop an overall understanding of these domains.

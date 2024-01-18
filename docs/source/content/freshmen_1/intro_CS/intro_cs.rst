@@ -6,6 +6,13 @@ Prerequisites
 
 No prerequisites are required.
 
+Study Duration
+--------------
+
+- **Start Time:** [2023/9/14]
+- **End Time:** [2024/1/18]
+- **Total Duration:** 4 months
+
 Study Material
 --------------
 
@@ -31,4 +38,5 @@ Books
 Summary
 -------
 
-The book alone should be sufficient, but you can also refer to `THU-CST-Cracker <https://rekcarc-tsc-uht.readthedocs.io/>`_ for additional materials such as past exam papers, syllabus, and more.
+The book alone should be sufficient, but you can also refer to `THU-CST-Cracker <https://rekcarc-tsc-uht.readthedocs.io/>`_ for additional materials such
+as past exam papers, syllabus, and more.

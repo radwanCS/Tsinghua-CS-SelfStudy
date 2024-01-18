@@ -47,6 +47,10 @@ Individuals may finish all courses in 3, 4, or even 5 years, allowing flexibilit
 
 For those you want to follow a strict timeline The recommended duration falls within the range of 3-4 years.
 
+In each course, I have noted the dates when I began and completed the course, along with the duration it took.
+Please note that the provided duration is just an estimate, as you may finish earlier or take much longer, depending on your pace.
+This information is included for my personal progress tracking and to serve as a reference for visitors and readers of this guide.
+
 Basic Credit Requirements
 -------------------------
 
