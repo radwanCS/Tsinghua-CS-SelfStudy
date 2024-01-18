@@ -17,11 +17,11 @@ Currently, there are no highly recommended books that effectively teach modern C
 Online Resources
 """"""""""""""""
 
-1. `Learn CPP <https://www.learncpp.com/>`_
+#. `Learn CPP <https://www.learncpp.com/>`_
 
    This website, `www.learncpp.com <https://www.learncpp.com/>`_, offers comprehensive lessons on programming and modern C++. It's regularly updated, highly recommended by many developers, and superior to studying from a book due to its frequent updates.
 
-2. Coding Challenge Platforms
+#. Coding Challenge Platforms
 
    There are multiple websites that can help sharpen your programming skills. You can choose any platform you prefer, but the ones I favor and recommend are: 
      

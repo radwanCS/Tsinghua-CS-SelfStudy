@@ -3,6 +3,7 @@ Introduction to Computer Science
 
 Prerequisites
 -------------
+
 No prerequisites are required.
 
 Study Material
@@ -13,7 +14,19 @@ Books
 
 1. "Computer Science: An Overview, 13th edition" by J. Glenn Brookshear and Dennis Brylow.
 
-   This book consists of 13 chapters. Ideally, you should aim to complete it within 15-30 days, but it could take longer if you decide to solve all the book's problems. The book covers many topics in computer science to prepare you for what's to come. This book is also used by Tsinghua University in the Introduction to Computer Science course.
+   This book consists of 13 chapters. It provides an overview of computer science,
+   offering a comprehensive understanding of the major.
+   
+   Some chapters may seem challenging, but that's normal as the book covers various specializations and topics within computer science.
+   Don't worry about grasping everything; aim to understand as much as possible and get a sense of what to expect in the field.
+
+   The course might take longer if you choose to delve deeply and solve all the book's problems.
+   While this is an option, it could extend your time in an introductory course.
+
+   The book covers a wide range of topics in computer science to prepare you for what lies ahead.
+   You may not comprehend everything in it, and that's okay.
+   Notably, Tsinghua University uses this book in its Introduction to Computer Science course.
+   Check the summary section link for information on the crucial chapters and topics to focus on.
 
 Summary
 -------
