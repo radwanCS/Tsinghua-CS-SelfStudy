@@ -20,14 +20,14 @@ Books
 ^^^^^
 
 #. "Algebra and Trigonometry 4th Edition by James Stewart, Lothar Redlin, Saleem Watson"
-#. "PreCalculus Mathematics For Calculus 7th Edition by James Stewart, Lothar, Saleem Watson"
 
-You have the option to read either of the books; there's no necessity to go through both since they largely address the same subjects.
-They also serve as valuable reference materials. Given that they encompass fundamental concepts, when it comes to the exercises in the
-books, I suggest concentrating on the ones that present a significant challenge.
-Attempting to complete all exercises is not recommended since it might demand an excessive amount of time.
+This book serve as valuable reference materials. Given that it encompass fundamental concepts, when it comes to the exercises in the
+books, I suggest doing the odd numbered problems since they have solution manual you can get from the internet.
+Attempting to complete all exercises (odd and even) is not recommended since it might demand an excessive amount of time.
 
 Summary
 -------
 
-These books will serve as sufficient resources to refresh your mathematical skills and acquire the necessary knowledge before delving into Calculus and advanced mathematics. Both of these recommended books are taught at the college level during the freshman year, aimed at preparing students who need to refresh their math skills for more advanced studies in mathematics.
+This book will serve as sufficient resources to refresh your mathematical skills and acquire the necessary knowledge before delving into Calculus
+and advanced mathematics. The recommended book is taught at the college level during the freshman year,
+aimed at preparing students who need to refresh their math skills for more advanced studies in mathematics.
