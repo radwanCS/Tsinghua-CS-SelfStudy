@@ -1,10 +1,11 @@
-PreCalculus
-===========
+**PreCalculus**
 
-Prerequisites
--------------
+Overview
+--------
 
-High school Maths
+**Prerequisites:** High school Mathematics.
+
+This course is optional, but I recommend taking it if you're not confident enough in math or if you find Calculus challenging.
 
 Study Duration
 --------------
@@ -19,15 +20,26 @@ Study Material
 Books
 ^^^^^
 
-#. "Algebra and Trigonometry 4th Edition by James Stewart, Lothar Redlin, Saleem Watson"
+1. *Algebra and Trigonometry 4th Edition* by James Stewart, Lothar Redlin, Saleem Watson
 
-This book serve as valuable reference materials. Given that it encompass fundamental concepts, when it comes to the exercises in the
-books, I suggest doing the odd numbered problems since they have solution manual you can get from the internet.
-Attempting to complete all exercises (odd and even) is not recommended since it might demand an excessive amount of time.
+   This book serves as valuable reference material. It encompasses fundamental concepts. 
+   When it comes to the exercises in the book, I suggest doing the odd-numbered problems since they have solution manuals available online. 
+   Attempting to complete all exercises (odd and even) is not recommended as it might require an excessive amount of time.
+
+Assignments
+-----------
+
+- Solving the book exercises
+
+For this course, I solved almost all odd-numbered questions. Sometimes I skipped the easy problems, but overall,
+I managed to solve around 70-80% of all odd-numbered problems in the book.
 
 Summary
 -------
 
-This book will serve as sufficient resources to refresh your mathematical skills and acquire the necessary knowledge before delving into Calculus
-and advanced mathematics. The recommended book is taught at the college level during the freshman year,
-aimed at preparing students who need to refresh their math skills for more advanced studies in mathematics.
+This book will serve as a sufficient resource to refresh your mathematical skills and
+acquire the necessary knowledge before delving into Calculus and advanced mathematics.
+The recommended book is taught at the college level during the freshman year,
+aiming to prepare students who need to refresh their math skills for more advanced studies in mathematics.
+Note that not all computer science programs teach this course; in fact, many computer science programs start with Calculus,
+including Tsinghua University, MIT, and many others. Nevertheless, I still recommend taking this course if your weak in math.
