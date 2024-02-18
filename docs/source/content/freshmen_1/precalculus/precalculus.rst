@@ -1,4 +1,5 @@
-**PreCalculus**
+PreCalculus
+===========
 
 Overview
 --------
