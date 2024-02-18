@@ -1,28 +1,29 @@
 Fundamentals of Programming
 ===========================
 
-Prerequisites
--------------
+Introduction
+------------
+
+**Prerequisites:**
 
 This is a first course in programming, so their are no prerequisites.
 
-Study Duration
---------------
+**Study Duration:**
 
-- **Start Time:** [2024/1/5]
-- **End Time:** 
-- **Total Duration:** 
+- Start Time: [2024/1/5]
+- End Time: 
+- Total Duration: 
 
 Study Material
 --------------
 
 Books
-"""""
+^^^^^
 
 Currently, there are no highly recommended books that effectively teach modern C++.
 
 Online Resources
-""""""""""""""""
+^^^^^^^^^^^^^^^^
 
 #. `Learn CPP <https://www.learncpp.com/>`_
 

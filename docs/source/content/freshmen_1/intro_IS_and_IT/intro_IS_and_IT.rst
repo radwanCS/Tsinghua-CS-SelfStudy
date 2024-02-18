@@ -1,23 +1,24 @@
 Introduction to Information Science & Technology
 ================================================
 
-Prerequisites
--------------
-   
+Introduction
+------------
+
+**Prerequisites:**
+
 No foundational knowledge is required for this course.
 
-Study Duration
---------------
+**Study Duration:**
 
-- **Start Time:** [2023/9/1]
-- **End Time:** [2023/9/30]
-- **Total Duration:** 1 month
+- Start Time: [2023/9/1]
+- End Time: [2023/9/30]
+- Total Duration: 1 month
 
 Study Material
 --------------
 
 Books
-"""""
+^^^^^
 
 #. "Introduction to Information Science 2nd Edition" by David Bawden, Lyn Robinson
 
@@ -27,8 +28,8 @@ Books
 
    This book can provide you with quick general knowledge about the field of IT.
 
-Tips and Guidelines
--------------------
+Summary
+-------
 
 This is an introductory course aimed at helping you differentiate between information science, information systems, and information technology.
 Aim to understand the meaning of each and develop an overall understanding of these domains.
