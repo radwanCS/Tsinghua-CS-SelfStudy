@@ -20,7 +20,16 @@ Study Material
 Books
 ^^^^^
 
-Currently, there are no highly recommended books that effectively teach modern C++.
+#. *C++ How To Program An Objects-Natural Approach* by Paul Deitel Harvey Deitel Eleventh Edition.
+
+This is a recent C++ book that teaches how to program in C++, its a great book since it has many programming exercises,
+and it follows the latest C++ standards.
+
+#. *Introduction to C++ by George S. Tselikis.
+
+This is Another great book to learn C++ from, it has 500+ difficulty-scaled solved programming exercises,
+you should attempt to solve those programmign exercises on your own, and only use the solved exercises to verify your answers.
+
 
 Online Resources
 ^^^^^^^^^^^^^^^^
@@ -40,4 +49,4 @@ Online Resources
 Summary
 --------
 
-The suggested online resources alone should be more than sufficient for learning the Fundamentals of Programming. If I come across excellent books on C++ programming later, I might add them.
+The suggested resouces should be more than sufficient for learning the Fundamentals of Programming.

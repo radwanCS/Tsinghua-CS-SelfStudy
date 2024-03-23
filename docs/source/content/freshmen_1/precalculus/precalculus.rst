@@ -32,7 +32,7 @@ Assignments
 #. Solving the book exercises
 
 For this course, I solved almost all odd-numbered questions. Sometimes I skipped the easy problems, but overall,
-I managed to solve around 70-80% of all odd-numbered problems in the book.
+I managed to solve around 80-90% of all odd-numbered problems in the book.
 
 Summary
 -------
