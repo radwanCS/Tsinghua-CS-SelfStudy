@@ -22,13 +22,13 @@ Books
 
 #. *C++ How To Program An Objects-Natural Approach* by Paul Deitel Harvey Deitel Eleventh Edition.
 
-This is a recent C++ book that teaches how to program in C++, its a great book since it has many programming exercises,
-and it follows the latest C++ standards.
+   This is a recent C++ book that teaches how to program in C++, its a great book since it has many programming exercises,
+   and it follows the latest C++ standards.
 
-#. *Introduction to C++ by George S. Tselikis.
+#. *Introduction to C++* by George S. Tselikis.
 
-This is Another great book to learn C++ from, it has 500+ difficulty-scaled solved programming exercises,
-you should attempt to solve those programmign exercises on your own, and only use the solved exercises to verify your answers.
+   This is Another great book to learn C++ from, it has 500+ difficulty-scaled solved programming exercises,
+   you should attempt to solve those programmign exercises on your own, and only use the solved exercises to verify your answers.
 
 
 Online Resources
