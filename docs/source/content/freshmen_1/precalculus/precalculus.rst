@@ -11,8 +11,8 @@ This course is optional, but I recommend taking it if you're not confident enoug
 **Study Duration:**
 
 - Start Time: [2023/9/1]
-- End Time:
-- Total Duration: 
+- End Time: [2024/3/23]
+- Total Duration: 6 months 23 days
 
 Study Material
 --------------
