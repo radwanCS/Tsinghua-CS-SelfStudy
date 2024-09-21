@@ -41,3 +41,21 @@ Autumn Semester
      
 Spring Semester
 ~~~~~~~~~~~~~~~
+
+Junior Year
+-----------
+
+Autumn Semester
+~~~~~~~~~~~~~~~
+
+.. list-table:: Autumn Semester Courses
+   :widths: 10 60 30
+   :header-rows: 1
+  
+   * - No.
+     - Course Name
+     - Credit
+   * - 1
+     - Software Engineering
+     - 3
+  

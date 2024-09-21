@@ -27,6 +27,8 @@ MIT OpenCourseWare, GitHub, and many others.
    :numbered:
 
    content/freshmen_1/freshmen_1
+   content/freshmen_2/freshmen_2
+   content/junior_1/junior_1
 
 
 Indices and tables
