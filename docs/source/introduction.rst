@@ -1,13 +1,18 @@
 Introduction
 ============
 
-Welcome to this Self Study Guide which is based on Tsinghua University curriculum for the computer science \& technology undergraduate program! Here's how this guide empowers your learning journey:
+Welcome to this Self Study Guide which is based on personal experience, various online resources, and different popular universities like Tsinghua University and MIT
+curriculum for the computer science \& technology undergraduate program!
 
-**Guided by Tsinghua:** We align with Tsinghua University's curriculum, ensuring comprehensive coverage of essential topics.
+Here's how this guide empowers your learning journey:
 
-**Enrichment from REKCARC-TSC-UHT:** This project supplements our guide with additional course material, including homework, books, and exams.
+**Based on popluar universities:** We align with Tsinghua, MIT, Harvard University and many other universities curriculum,
+ensuring comprehensive coverage of essential topics.
 
-**A Self-Study Roadmap:** This documentation serves as your roadmap to mastering computer science. It offers suggestions for books, online resources, and courses to help you gain the required knowledge in each subject.
+**Enrichment from online:** We supplements our guide with additional course material, including homework, books, and exams from free online resources.
+
+**A Self-Study Roadmap:** This documentation serves as your roadmap to mastering computer science. It offers suggestions for books, online resources, 
+and courses to help you gain the required knowledge in each subject.
 
 Study Objective
 ---------------
@@ -39,17 +44,14 @@ According to Tsinghua University, Computer Science and Technology Graduates shou
 Study Duration
 --------------
 
-At Tsinghua University, the undergraduate program for Computer Science and Technology spans four years, culminating in the conferment of a Bachelor of Engineering degree.
+At Tsinghua University and many other famous universities, the undergraduate program for Computer Science and Technology spans four years, culminating in the conferment of a Bachelor of Engineering degree.
 The curriculum and credit distribution align with the undergraduate program's duration. The maximum allowable period for undergraduate study is the program duration (4 years) with an additional two years.
 
-Considering the approach in this guide, the program duration is estimated to range between 3-4 years. By excluding extracurricular courses typically included in most university programs and focusing solely on essential subjects, we prioritize efficiency. However, there's no strict timeline for program completion. 
+Considering the approach in this guide, the program duration is set to 4 years. By excluding extracurricular courses typically included in most university programs and focusing solely on essential subjects, we prioritize efficiency.
+However, there's no strict timeline for program completion. 
 Individuals may finish all courses in 3, 4, or even 5 years, allowing flexibility and self-pacing.
 
-For those you want to follow a strict timeline The recommended duration falls within the range of 3-4 years.
-
-In each course, I have noted the dates when I began and completed the course, along with the duration it took.
-Please note that the provided duration is just an estimate, as you may finish earlier or take much longer, depending on your pace.
-This information is included for my personal progress tracking and to serve as a reference for visitors and readers of this guide.
+For those who want to follow a strict timeline The recommended duration falls within the range of 3-4 years.
 
 Basic Credit Requirements
 -------------------------
