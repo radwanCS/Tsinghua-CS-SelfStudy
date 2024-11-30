@@ -8,11 +8,6 @@ Introduction
 
 No prerequisites are required.
 
-**Study Duration:**
-
-- Start Time: [2023/9/14]
-- End Time: [2024/1/18]
-- Total Duration: 4 months
 
 Study Material
 --------------

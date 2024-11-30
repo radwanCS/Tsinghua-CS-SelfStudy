@@ -8,11 +8,6 @@ Introduction
 
 No foundational knowledge is required for this course.
 
-**Study Duration:**
-
-- Start Time: [2023/9/1]
-- End Time: [2023/9/30]
-- Total Duration: 1 month
 
 Study Material
 --------------

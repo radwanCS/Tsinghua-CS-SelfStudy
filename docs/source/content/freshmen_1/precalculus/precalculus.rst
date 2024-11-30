@@ -8,11 +8,6 @@ Introduction
 
 This course is optional, but I recommend taking it if you're not confident enough in math or if you find Calculus challenging.
 
-**Study Duration:**
-
-- Start Time: [2023/9/1]
-- End Time: [2024/3/23]
-- Total Duration: 6 months 23 days
 
 Study Material
 --------------

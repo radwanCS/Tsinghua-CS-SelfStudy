@@ -8,19 +8,19 @@ Introduction
 
 Solid understanding of Algebra, Trigonometry, and a variety of concepts in PreCalculus is required.
 
-**Study Duration:**
-
-- Start Time: [2024/4/6]
-- End Time:
-- Total Duration:
-
 Study Material
 --------------
 
 Books
 ^^^^^
 
-#. *Thomas Calculus Early Transcendentals* 15th edition by George B. Thomas, JR Global Edition
+#. *Thomas Calculus Early Transcendentals* 15th edition by George B. Thomas, JR USA Edition
+#. *How to Ace Calculus: The Streetwise Guide*, 1998 Edition, by Abigail Thompson, Colin Adams, and Joel Hass
+
+Websites
+^^^^^^^^
+
+#. `The LibreTexts libraries <https://math.libretexts.org/>`_ has lots of valuable information and lessons in calculus.
 
 Assignments
 ^^^^^^^^^^^

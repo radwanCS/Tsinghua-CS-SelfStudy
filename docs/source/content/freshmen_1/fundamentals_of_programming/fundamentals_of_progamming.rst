@@ -8,11 +8,6 @@ Introduction
 
 This is a first course in programming, so their are no prerequisites.
 
-**Study Duration:**
-
-- Start Time: [2024/1/5]
-- End Time: 
-- Total Duration: 
 
 Study Material
 --------------
