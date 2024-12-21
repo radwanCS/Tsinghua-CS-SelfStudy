@@ -33,7 +33,7 @@ Online Resources
 
    This website, `www.learncpp.com <https://www.learncpp.com/>`_, offers comprehensive lessons on programming and modern C++. It's regularly updated, highly recommended by many developers, and superior to studying from a book due to its frequent updates.
 
-#. Coding Challenge Platforms
+#. Coding Challenge Platforms (Optional)
 
    There are multiple websites that can help sharpen your programming skills. You can choose any platform you prefer, but the ones I favor and recommend are: 
      

@@ -5,5 +5,3 @@ Here is a list of courses for your Freshman year's second semester. You have the
 provided you have fulfilled the necessary prerequisites for that specific course.
 
 .. toctree::
-
-    

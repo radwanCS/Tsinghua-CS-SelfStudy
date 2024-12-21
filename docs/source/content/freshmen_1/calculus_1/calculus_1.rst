@@ -25,7 +25,7 @@ Websites
 Assignments
 ^^^^^^^^^^^
 
-#. Solving the book exercises
+#. Solving the book exercises, focus on the solving the difficult problems, and skip the easy ones.
 
 
 Summary

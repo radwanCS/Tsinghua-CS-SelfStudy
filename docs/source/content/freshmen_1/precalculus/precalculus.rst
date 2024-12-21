@@ -26,7 +26,7 @@ Assignments
 
 #. Solving the book exercises
 
-For this course, I solved almost all odd-numbered questions. Sometimes I skipped the easy problems, but overall,
+For this course, After I finished reading the book I solved almost all odd-numbered questions. Most of the times I skipped the easy problems, but overall,
 I managed to solve around 80-90% of all odd-numbered problems in the book.
 
 Summary

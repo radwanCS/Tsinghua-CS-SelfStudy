@@ -6,7 +6,7 @@ Introduction
 
 **Prerequisites:**
 
-Discreet Maths, programming design, Object Oriented Programming.
+Discreet Maths, Programming Design, Object Oriented Programming.
 
 Study Material
 --------------
