@@ -10,6 +10,15 @@ None. This course does not require any prior knowledge.
 Study Material
 --------------
 
+Lectures
+^^^^^^^^
+
+**1. CS50's Introduction to Computer Science – Harvard University**  
+
+A highly regarded introductory course that is both beginner-friendly and sufficiently challenging. It is an excellent choice for those looking to gain a solid foundation in computer science.  
+
+**Link:** `CS50 on edX <https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science>`_
+
 Books
 ^^^^^
 
@@ -23,15 +32,6 @@ This book consists of 13 chapters and provides a broad overview of computer scie
 - This book is widely used, including at Tsinghua University for its Introduction to Computer Science course.  
 
 For guidance on key chapters and topics to focus on, refer to the **Summary** section.
-
-Online Resources
-^^^^^^^^^^^^^^^^
-
-**1. CS50's Introduction to Computer Science – Harvard University**  
-
-A highly regarded introductory course that is both beginner-friendly and sufficiently challenging. It is an excellent choice for those looking to gain a solid foundation in computer science.  
-
-**Link:** `CS50 on edX <https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science>`_
 
 Summary
 -------
