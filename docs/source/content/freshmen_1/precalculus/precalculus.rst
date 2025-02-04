@@ -3,11 +3,9 @@ PreCalculus
 
 Introduction
 ------------
+**Prerequisites:** Basic high school math skills
 
-**Prerequisites:** High school Mathematics.
-
-This course is optional, but I recommend taking it if you're not confident enough in math or if you find Calculus challenging.
-
+Not everyone *needs* this, but here's why it helps: If equations make you break out in a sweat or Calculus sounds scary, this prep work could be your secret weapon.
 
 Study Material
 --------------
@@ -15,26 +13,37 @@ Study Material
 Books
 ^^^^^
 
-#. *Algebra and Trigonometry 4th Edition* by James Stewart, Lothar Redlin, Saleem Watson
+1. *Algebra and Trigonometry (4th Edition)* by James Stewart, Lothar Redlin, and Saleem Watson
 
-This book serves as valuable reference material. It encompasses fundamental concepts. 
-When it comes to the exercises in the book, I suggest doing the odd-numbered problems since they have solution manuals available online. 
-Attempting to complete all exercises (odd and even) is not recommended as it might require an excessive amount of time.
-
+   My go-to guide for shaking off the math rust. Pro tip: Stick with the odd-numbered problems (answers available online!) and skip the easy problems once you've got the idea. Why grind through 20 similar problems when 5 tough ones teach you more?
+   
 Assignments
 ^^^^^^^^^^^
 
-#. Solving the book exercises
+1. Book Exercises - Work Smarter
 
-For this course, After I finished reading the book I solved almost all odd-numbered questions. Most of the times I skipped the easy problems, but overall,
-I managed to solve around 80-90% of all odd-numbered problems in the book.
+   Here's how to avoid burnout:
+   - Do the odd-numbered problems (check your work as you go)
+   - Skip questions that are redundant or offer no real challenge
+   - Wrestle with the theory questions - they're gold
+   - Camp out on topics that make your head spin
+
+.. note::
+
+   No required videos, but Khan Academy's great if you learn better by watching. Mix and match resources - whatever keeps you motivated!
 
 Summary
 -------
+Here's the real talk about this book: It's like a math gym membership. Colleges use it to get students in shape for Calculus, but here's the catch...
 
-This book will serve as a sufficient resource to refresh your mathematical skills and
-acquire the necessary knowledge before delving into Calculus and advanced mathematics.
-The recommended book is taught at the college level during the freshman year,
-aiming to prepare students who need to refresh their math skills for more advanced studies in mathematics.
-Note that not all computer science programs teach this course; in fact, many computer science programs start with Calculus,
-including Tsinghua University, MIT, and many others. Nevertheless, I still recommend taking this course if your weak in math.
+- **Most CS programs jump straight to Calculus** (MIT, Tsinghua, etc.)
+- **Math is cumulative** - Fall behind early, play catch-up all semester
+- **You control the pace** - Build strength now or risk injury later
+
+.. important::
+
+   Let's get real about math: You can't cram it. This course is your safety net if:
+   - Algebra feels like ancient hieroglyphics
+   - Trig identities look like random scribbles
+   - Abstract thinking isn't your superpower (yet!)
+   Nail these basics now, and Calculus becomes way less terrifying.
