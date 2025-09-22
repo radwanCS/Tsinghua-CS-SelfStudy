@@ -1,15 +1,20 @@
-Calculus 1
-==========
+Single Variable Calculus
+========================
 
-Introduction
-------------
+Prerequisites & Introduction
+----------------------------
 
 **Prerequisites:** PreCalculus.
 
-Solid understanding of Algebra, Trigonometry, and a variety of concepts in PreCalculus is required.
+Solid understanding of Algebra, Trigonometry, and a variety of concepts in PreCalculus is required such as sequence and series, polar coordinates, parametric equations.
 
 Study Material
 --------------
+
+Lectures
+^^^^^^^^
+
+MIT OCW 18.01 Single variable calculus.
 
 Books
 ^^^^^
@@ -28,5 +33,5 @@ Assignments
 #. Solving the book exercises, focus on the solving the difficult problems, and skip the easy ones.
 
 
-Summary
--------
+Self Evaluation
+---------------
