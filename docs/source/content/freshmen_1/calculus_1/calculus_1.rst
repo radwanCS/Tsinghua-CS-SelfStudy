@@ -12,7 +12,7 @@ Study Material
 --------------
 
 Lectures
-^^^^^^^^
+""""""""
 
 MIT OCW 18.01 Single variable calculus.
 
