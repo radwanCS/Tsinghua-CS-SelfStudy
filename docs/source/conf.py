@@ -32,5 +32,3 @@ html_theme_options = {
     # Toc options
     'collapse_navigation': False,
 }
-
-html_secnum_depth = 2  # <--- add this line

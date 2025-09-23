@@ -3,15 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Computer Science \& Technology Self Study Guide!
-===============================================================
+Welcome to the Computer Science & Technology Self-Study Guide!
+==============================================================
 
-A self-study guide for **Computer Science & Technology** based on my personal experience, authentic curricula from known universities like `Tsinghua University <https://www.cs.tsinghua.edu.cn/csen/index.htm>`_ curriculum,
-the `REKCARC-TSC-UHT <https://github.com/PKUanonym/REKCARC-TSC-UHT/tree/master>`_ project on GitHub, and many other online resources like Coursera,
-MIT OpenCourseWare, GitHub, and many others.
+A self-study guide for **Computer Science & Technology**, based on my personal experience and authentic curricula from universities such as MIT, Harvard, Stanford, and Tsinghua.  
+It also draws on the many freely available open-source online learning platforms, including MIT OCW, Coursera, and others.
 
 .. note::
-   This project is under active development
+   This project is under active development.
 
 .. toctree::
    :maxdepth: 2
@@ -31,7 +30,7 @@ MIT OpenCourseWare, GitHub, and many others.
    content/junior_1/junior_1
 
 
-Indices and tables
+Indices and Tables
 ==================
 
 * :ref:`genindex`

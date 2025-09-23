@@ -1,7 +1,8 @@
 Study Plan
 ==========
 
-Welcome to the Study Plan page! Here, we present you with a comprehensive 4-year study plan meticulously designed based on the curriculum of Tsinghua University.
+Welcome to the Study Plan page! Here, we present you with a comprehensive 4-year study plan meticulously designed based on the curriculum of many famous universities.
+
 The plan is structured around two semesters per year, ensuring a well-rounded and effective learning journey throughout your academic pursuit.
 
 Freshman Year
@@ -16,28 +17,28 @@ Autumn Semester
 
    * - No.
      - Course Name
-     - Credit
+     - Source
    * - 1
      - PreCalculus
-     - 0
+     - Khan Academy
    * - 2
-     - Calculus A(1)
-     - 5
+     - Single Variable Calculus
+     - MIT OCW
    * - 3
      - Linear Algebra
-     - 4
+     - 
    * - 4
      - Discreet Mathmatics (1)
-     - 3
+     - MIT OCW
    * - 5
      - Introduction to information Science and Technology
-     - 1
+     - 
    * - 6
      - Introduction to Computer Science
-     - 1
+     - Harvard
    * - 7
      - Fundamentals of Programming
-     - 3
+     - 
      
 Spring Semester
 ~~~~~~~~~~~~~~~
@@ -54,8 +55,8 @@ Autumn Semester
   
    * - No.
      - Course Name
-     - Credit
+     - Source
    * - 1
      - Software Engineering
-     - 3
+     - 
   

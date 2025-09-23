@@ -1,491 +1,372 @@
 Introduction
 ============
 
-Welcome to this Self Study Guide which is based on personal experience, various online resources, and different popular universities like Tsinghua University and MIT
-curriculum for the computer science \& technology undergraduate program!
+Welcome to this Self-Study Guide, which is based on personal experience, various online resources, and curricula from well-known universities such as MIT, Harvard, and Tsinghua for the Computer Science \& Technology undergraduate program.
 
 Here's how this guide empowers your learning journey:
 
-**Based on popluar universities:** We align with Tsinghua, MIT, Harvard University and many other universities curriculum,
-ensuring comprehensive coverage of essential topics.
+**Based on popular universities:** We align the guide with curricula from MIT, Harvard, Tsinghua University, and other reputable institutions to ensure comprehensive coverage of essential topics.
 
-**Enrichment from online:** We supplements our guide with additional course material, including homework, books, and exams from free online resources.
+**Enriched by online resources:** We supplement the guide with additional course materials, including homework, books, and exams from free online resources.
 
-**A Self-Study Roadmap:** This documentation serves as your roadmap to mastering computer science. It offers suggestions for books, online resources, 
-and courses to help you gain the required knowledge in each subject.
+**A self-study roadmap:** This documentation serves as a roadmap for mastering computer science. It offers suggestions for free online courses, books, and guides to help you acquire the required knowledge in each subject.
 
 Study Objective
 ---------------
 
-We've made this guide to lead you to a complete education in computer science. It covers lots of different subjects, starting with the basics and then going into more specialized stuff.
-As you go through this guide, you'll learn important theories, knowledge, and skills you need for computer science. But it's not just about what you learn, we also want to help you become 
-a well-rounded person and encourage your creative thinking.
+We've created this guide to lead you toward a complete education in computer science. It covers a wide range of subjects, starting with the fundamentals and progressing to more specialized topics. As you follow the guide, you'll learn the core theories, knowledge, and practical skills needed for computer science. Beyond technical content, we aim to help you become a well-rounded thinker and to encourage creativity.
 
-Our aim is to guide you become someone who can learn a lot on their own and adapt to different things. We want you to dream big and set goals for yourself, especially in the field of science.
-By the end of this guide, you'll be ready to lead in computer science or make a big impact in the business world. You'll have the skills and knowledge to make a real difference.
-
-Requirements
-------------
-
-According to Tsinghua University, Computer Science and Technology Graduates should possess the following knowledge and abilities:
-
-1. Ability to apply mathematical, scientific, and engineering knowledge
-2. Ability to design and conduct experiments, analyze and interpret data
-3. Ability to design systems, devices, or processes that meet desired requirements while considering real constraints such as economic, environmental, social, political, ethical, health, safety, ease of processing, and sustainability
-4. Ability to work in multidisciplinary teams
-5. Ability to identify, propose, and solve engineering problems
-6. Understanding of professional ethics and responsibilities in the field of study
-7. Ability for effective communication
-8. Possess a broad knowledge base, capable of recognizing the global, economic, environmental, and societal impact of engineering solutions
-9. Recognize the importance of lifelong learning and have the ability to improve oneself through continuous learning
-10. Possess knowledge to understand contemporary social and technological issues from a professional perspective
-11. Ability to apply technology, skills, and modern engineering tools for engineering practice
+Our goal is to help you become an independent learner who can adapt to new challenges. We want you to set ambitious goals in the field of science. By the end of this guide, you should be prepared to lead in computer science or to make a significant impact in industry or research.
 
 Study Duration
 --------------
 
-At Tsinghua University and many other famous universities, the undergraduate program for Computer Science and Technology spans four years, culminating in the conferment of a Bachelor of Engineering degree.
-The curriculum and credit distribution align with the undergraduate program's duration. The maximum allowable period for undergraduate study is the program duration (4 years) with an additional two years.
+At MIT, Harvard, Tsinghua, and many other universities, the undergraduate program in Computer Science and Technology typically spans four years and leads to a Bachelor of Engineering degree. The curriculum and credit distribution are designed for that duration. The maximum allowable period for undergraduate study is the program duration (4 years) plus an additional two years.
 
-Considering the approach in this guide, the program duration is set to 4 years. By excluding extracurricular courses typically included in most university programs and focusing solely on essential subjects, we prioritize efficiency.
-However, there's no strict timeline for program completion. 
-Individuals may finish all courses in 3, 4, or even 5 years, allowing flexibility and self-pacing.
+For the purposes of this guide, the program duration is set to four years. By excluding many extracurricular courses found in typical university programs and focusing on essential subjects, we prioritize efficiency. However, there is no strict timeline for completion: individuals may finish in 3, 4, or 5 years depending on pace and circumstances. 
 
-For those who want to follow a strict timeline The recommended duration falls within the range of 3-4 years.
+Because the courses in this guide closely mirror what you would experience in person at a university, we expect that most learners will need approximately 3–4 years to complete the core requirements.
 
-Basic Credit Requirements
--------------------------
+Basic Requirements
+------------------
 
-At Tsinghua University, the undergraduate education mandates a total credit requirement of 160 credits.
-This encompasses 46 credits designated for university-level general education courses, 95 credits dedicated to major-related courses,
-and an additional 19 credits allocated for practical components within the major.
+Many universities, including Tsinghua, mandate a total number of credits for an undergraduate degree.
+
+This guide adopts a different approach: courses are divided into foundational (compulsory) courses and elective (optional) courses. Foundational courses cover the essential, standard topics every computer science student should take. Elective courses are optional; you choose them according to your interests and the direction you want your studies to take.
+
+Once you finish the foundations, you will have enough exposure to the field to make informed choices about which elective courses are best for you.
 
 .. note::
 
-   Only subjects directly related to computer science will be included in this guide. 
-   To meet the required credits, consider taking more specialized computer science courses from the 3rd and 4th years.
+   Only subjects directly related to computer science are included in this guide. Unlike many universities, this guide excludes unrelated or irrelevant courses.
 
-Curriculum Setting and Credit Distribution
-------------------------------------------
+Foundational Courses
+~~~~~~~~~~~~~~~~~~~~
 
-As stated earlier only subjects related to computer science \& IT well be included
+The foundational courses are compulsory. They cover mathematics and natural science foundations, core subject foundations, practical components, and other essential areas. These courses provide the theories, methods, skills, and abilities necessary for in-depth study and research in computer science and technology.
 
-Foundational courses 39 credits compulsory
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. note::
 
-The fundamental courses are the compulsory courses and credit requirements set by the Computer Science Department for students in this major, 
-covering mathematics and natural science foundations, subject foundations, practical components, and other aspects. These courses and components 
-provide students with the essential theories, knowledge, scientific methods, basic skills,
-and abilities necessary for in-depth learning and research in the field of computer science and technology.
+   This is a preview list of courses that may be added in the future; it is illustrative only and does not represent a final or official curriculum.
 
-* Mathematics Foundations 30 credits Compulsory
+* Mathematics Foundations
 
 .. list-table:: Math Foundational Courses
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
-     - Calculus A(1)
-     - 5
+     - Calculus A (1)
      - 
    * - 2
-     - Calculus A(2)
-     - 5
+     - Calculus A (2)
      - 
    * - 3
      - Linear Algebra
-     - 4 
      - 
    * - 4
      - Advanced Linear Algebra
-     - 2
      - 
    * - 5
      - Probability Theory and Random Processes
-     - 3
      - 5 or 6
    * - 6
      - Probability Theory and Statistics
-     - 3
      - 5 or 6
    * - 7
-     - Complex analysis
-     - 2
-     -
+     - Complex Analysis
+     - 
    * - 8
      - Numerical Analysis
-     - 3
      - 8 or 9
    * - 9
-     - Experimental mathematics
-     - 4
+     - Experimental Mathematics
      - 8 or 9
    * - 10
-     - Discreet Math (1)
-     - 3
-     -
+     - Discrete Math (1)
+     - 
    * - 11
-     - Discreet Math (2)
-     - 3
-     -
+     - Discrete Math (2)
+     - 
 
-* Natural Science Foundations 8 Credits Compulsory
+* Natural Science Foundations
 
 .. list-table:: Natural Science Foundational Courses
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
-     - Collage Physics (1)
-     - 4
+     - College Physics (1)
      - 
    * - 2
-     - Collage Physics (2)
-     - 4
+     - College Physics (2)
      - 
 
-*  Computer Science Foundations Course 2 Credit
+* Computer Science Foundations
 
 .. list-table:: Computer Science Foundational Courses
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
-     - Introduction to information Science and Technology
-     - 1
+     - Introduction to Information Science and Technology
      - 
    * - 2
      - Introduction to Computer Science
-     - 1
-     -
+     - 
    * - 3
      - Fundamentals of Electronics
-     - 1
      - 
 
-Major Core Courses - 44 Credits, Compulsory
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Major Core Courses
+~~~~~~~~~~~~~~~~~~
 
-Those are the courses that are related to computer science
+These are the core courses directly related to computer science.
 
 .. list-table:: Major Core Courses
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
      - Programming Basics
-     - 3
      - 
    * - 2
-     - Object Oriented Programming
-     - 2
+     - Object-Oriented Programming
      - 
    * - 3
      - Digital Logic Circuit
-     - 3
      - 3 or 4
    * - 4
      - Digital Logic Design
-     - 3
      - 3 or 4
    * - 5
      - Digital Logic Experiment
-     - 1
-     -
+     - 
    * - 6
      - Data Structures
-     - 4
      - 
    * - 7
      - Introduction to Computer Systems
-     - 3
-     -
+     - 
    * - 8
      - Signal Processing Principles
-     - 3
      - 8 or 9
    * - 9
      - Signals and Systems
-     - 4
      - 8 or 9
    * - 10
      - Principles of Computer Networks
-     - 3
-     -
+     - 
    * - 11
      - Computer Organization and Architecture
-     - 4
      - 
    * - 12
      - Software Engineering
-     - 3
      - 
    * - 13
      - Operating Systems
-     - 3
      - 
    * - 14
      - Computer System Architecture
-     - 3
-     -
-   * - 14
-     - Formal Languages and Automata
-     - 2
-     -
+     - 
    * - 15
-     - Compiler Design
-     - 2
+     - Formal Languages and Automata
      - 
    * - 16
-     - Introduction to Artificial Intelligence
-     - 2
+     - Compiler Design
      - 
    * - 17
+     - Introduction to Artificial Intelligence
+     - 
+   * - 18
      - Introduction to Cybersecurity
-     - 3
-     -
+     - 
 
-Major Elective Courses 12 Credits
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Major Elective Courses
+~~~~~~~~~~~~~~~~~~~~~~
 
-* Major elective courses: no less than 10 credits.
+The elective courses in this major are grouped into four specialized directions: Computer System Architecture, Computer Software and Theory, Computer Application Technology, and Specialized Training.
 
-The elective courses offered in this major include four specialized directions: Computer System Architecture, Computer Software and Theory,
-Computer Application Technology, and Specialized Training. It is recommended to choose a minimum of 2 credits for each specialized direction,
-totaling not less than 10 credits.
-
-1. Computer System Architecture Course Group: Elective, not less than 2 credits.
+1. Computer System Architecture Course Group — Elective
 
 .. list-table:: Computer System Architecture
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
      - Microcomputer Technology
-     - 3
      - 
    * - 2
      - Automated Digital System Design
-     - 2
      - 
    * - 3
      - Introduction to VLSI Design
-     - 2
      - 
    * - 4
      - Introduction to Communication Principles
-     - 3
      - 
    * - 5
      - Computer Network Security Technology
-     - 2
      - 
    * - 6
      - Fundamentals of Storage Technology
-     - 2
      - 
    * - 7
      - Grid Computing
-     - 1
      - 
    * - 8
      - Frontiers of High-Performance Computing Technologies
-     - 1
-     -
+     - 
    * - 9
      - Network Security Engineering and Practice
-     - 2
-     -
+     - 
    * - 10
      - Computer Network Management
-     - 2
      - 
    * - 11
      - Wireless Mobile Network Technology
-     - 2
-     -
+     - 
    * - 12
      - Internet Engineering Design
-     - 2
-     -
+     - 
    * - 13
      - Network Programming Techniques
-     - 2
      - 
    * - 14
      - Modern Cryptography
-     - 2
      - 
    * - 15
      - Principles of Network Security and Privacy
-     - 2
      - 
 
-2. Computer Software and Theory Course Group: Elective, not less than 2 credits.
+2. Computer Software and Theory Course Group — Elective
 
-.. list-table:: Computer Software Theory
-   :widths: 10 50 20 20
+.. list-table:: Computer Software & Theory
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
      - Microcomputer Technology
-     - 3
      - 
    * - 2
      - Introduction to High-Performance Computing
-     - 2
      - 
    * - 3
      - Introduction to Database Systems
-     - 2
-     -
+     - 
    * - 4
      - Software Development Methods
-     - 2
-     -
+     - 
    * - 5
-     - Cutting-edge Technologies in Computer Software
-     - 1
-     -
+     - Cutting-Edge Technologies in Computer Software
+     - 
    * - 6
      - Introduction to Computational Theory
-     - 2
      - 
 
-3. Computer Application Technology Course Group: Elective courses of no less than 2 credits.
+3. Computer Application Technology Course Group — Elective
 
 .. list-table:: Computer Application Technology
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
      - Pattern Recognition
-     - 2
      - 
    * - 2
      - Fundamentals and Applications of Multimedia Technology
-     - 2
-     -
+     - 
    * - 3
      - Digital Image Processing
-     - 2
      - 
    * - 4
      - Fundamentals of Computer Graphics
-     - 2
      - 
    * - 5
      - System Simulation and Virtual Reality
-     - 2
      - 
    * - 6
      - Modern Control Technology
-     - 2
      - 
    * - 7
      - Information Retrieval
-     - 2
      - 
    * - 8
      - Data Mining
-     - 2
      - 
    * - 9
      - Introduction to Machine Learning
-     - 2
      - 
    * - 10
      - Theory and Technology of Human-Computer Interaction
-     - 2
-     -
+     - 
    * - 11
      - Artificial Neural Networks
-     - 2
      - 
    * - 12
      - Media Computing
-     - 2
      - 
    * - 13
      - Fundamentals of Search Engine Technology
-     - 2
      - 
    * - 14
      - System Analysis and Control
-     - 3
-     -
+     - 
    * - 15
      - Embedded Systems
-     - 2
      - 
    * - 16
      - Artificial Intelligence Technologies and Practice
-     - 2
-     -
+     - 
    * - 17
      - Virtual Reality Technology
-     - 2
-     -
+     - 
    
-4. Specialized Training: Elective courses of no less than 2 credits
+4. Specialized Training — Elective
 
 .. list-table:: Specialized Training
-   :widths: 10 50 20 20
+   :widths: 10 70 20
    :header-rows: 1
 
    * - No.
      - Course Name
-     - Credit
      - Remark
    * - 1
      - Specialized Training in Computer Networking
-     - 2
      - 
    * - 2
      - Specialized Training in Operating Systems
-     - 2
      - 
    * - 3
      - Specialized Training in Compiler Principles
-     - 2
-     -
+     - 
    * - 4
      - Specialized Training in Databases
-     - 2
      - 
    * - 5
-     - Service-Centric Software Development Design and Implementation
-     - 2
+     - Service-Centric Software Development: Design and Implementation
      - 
    * - 6
      - Cognitive Robotics
-     - 1
      - 
